@@ -13,3 +13,6 @@ Order By AppointmentDate DESC;
 
 Select * From departments
 Order By DepartmentName ASC;
+
+Select * From billing
+Order By BalanceAmount DESC;
